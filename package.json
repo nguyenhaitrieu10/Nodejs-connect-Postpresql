@@ -1,8 +1,8 @@
 {
-  "name": "todo-app",
+  "name": "projectWeb",
   "version": "1.0.0",
-  "description": "hihi",
-  "main": "server.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
