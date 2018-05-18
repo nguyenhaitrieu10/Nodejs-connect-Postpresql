@@ -1,0 +1,35 @@
+#navbarNav{
+	position: absolute;
+	right: 50px;
+	height: 100%;
+}
+
+li.nav-item{
+	padding: 7px;
+}
+
+li.nav-item.active{
+	background-color: lightgray;
+}
+
+img.card-img-top {
+    min-height: 250px;
+}
+
+.card {
+    border: none;
+}
+
+div.jum{
+	text-align: center;
+    border: solid 1px lightgray;
+    margin-bottom: 20px;
+}
+
+.del, .edit{
+	vertical-align: top;
+}
+
+.com{
+	margin-bottom: 15px;
+}

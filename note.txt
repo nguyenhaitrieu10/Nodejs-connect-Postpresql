@@ -1,0 +1,8 @@
+// Tao 1 CSDL tu postgresc (pass hien tai la "abc")
+
+sequelize init
+// config
+sequelize model:generate --name <ten_bang> --attributes att1:type1,att2:type2
+// chinh sua bang
+sequelize db:migrate
+// sequelize db:migrate:undo:all
